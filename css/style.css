@@ -73,8 +73,8 @@ button{
     padding: 14px;
     border:none ;
     border-radius: 8px;
-    background-color: blue;
-    color: black;
+    background-color: #3498db;
+    color: white;
     font-size: 17px;
     font-weight: bold;
     cursor: pointer;
